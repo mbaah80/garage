@@ -1,0 +1,22 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Freda Johns Mensah",
+      "position": "Founder",
+      "image":"/images/p4115996225-4-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "name": "John Listowell Yeboah",
+      "position": "Operations Director",
+      "image":"/images/istockphoto-1201144328-612x612-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "name": "Bryan Evans White",
+      "position": "Chief Technology Officer (CTO)",
+      "image":"/images/pexels-andrea-piacquadio-3777943-removebg-preview.png"
+    }
+  ]
+}
